@@ -1,0 +1,88 @@
+{
+  "solutions": {
+    "solutions/alg1.py": {
+      "inst-s10-cluster.txt.bz2": {
+        "time": 0.073171,
+        "memory": 30552,
+        "status": "RTE"
+      },
+      "inst-s10.txt.bz2": {
+        "time": 0.070884,
+        "memory": 30164,
+        "status": "RTE"
+      },
+      "inst-s20-cluster.txt.bz2": {
+        "time": 0.071028,
+        "memory": 30528,
+        "status": "RTE"
+      },
+      "inst-s20.txt.bz2": {
+        "time": 0.07085799999999999,
+        "memory": 30484,
+        "status": "RTE"
+      },
+      "inst-s4-cluster.txt.bz2": {
+        "time": 0.070647,
+        "memory": 30356,
+        "status": "RTE"
+      },
+      "inst-s4.txt.bz2": {
+        "time": 0.06689099999999999,
+        "memory": 30168,
+        "status": "RTE"
+      },
+      "inst-s5-cluster.txt.bz2": {
+        "time": 0.07173,
+        "memory": 30360,
+        "status": "RTE"
+      },
+      "inst-s5.txt.bz2": {
+        "time": 0.070731,
+        "memory": 30744,
+        "status": "RTE"
+      }
+    },
+    "solutions/alg2.py": {
+      "inst-s10-cluster.txt.bz2": {
+        "time": 0.07152800000000001,
+        "memory": 30284,
+        "status": "RTE"
+      },
+      "inst-s10.txt.bz2": {
+        "time": 0.071487,
+        "memory": 30552,
+        "status": "RTE"
+      },
+      "inst-s20-cluster.txt.bz2": {
+        "time": 0.071743,
+        "memory": 30288,
+        "status": "RTE"
+      },
+      "inst-s20.txt.bz2": {
+        "time": 0.068599,
+        "memory": 30552,
+        "status": "RTE"
+      },
+      "inst-s4-cluster.txt.bz2": {
+        "time": 0.070905,
+        "memory": 30224,
+        "status": "RTE"
+      },
+      "inst-s4.txt.bz2": {
+        "time": 0.07208200000000001,
+        "memory": 30744,
+        "status": "RTE"
+      },
+      "inst-s5-cluster.txt.bz2": {
+        "time": 0.071619,
+        "memory": 30552,
+        "status": "RTE"
+      },
+      "inst-s5.txt.bz2": {
+        "time": 0.070636,
+        "memory": 30360,
+        "status": "RTE"
+      }
+    }
+  }
+}
