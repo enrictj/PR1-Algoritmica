@@ -11,6 +11,16 @@
         "memory": 30164,
         "status": "RTE"
       },
+      "inst-s100000-cluster.txt.bz2": {
+        "time": 101.161323,
+        "memory": 52984,
+        "status": "TLE"
+      },
+      "inst-s100000.txt.bz2": {
+        "time": 101.168376,
+        "memory": 53032,
+        "status": "TLE"
+      },
       "inst-s20-cluster.txt.bz2": {
         "time": 0.071028,
         "memory": 30528,
@@ -40,6 +50,36 @@
         "time": 0.070731,
         "memory": 30744,
         "status": "RTE"
+      },
+      "inst-s50000-cluster.txt.bz2": {
+        "time": 101.23299300000001,
+        "memory": 36680,
+        "status": "TLE"
+      },
+      "inst-s50000.txt.bz2": {
+        "time": 101.1917,
+        "memory": 36604,
+        "status": "TLE"
+      },
+      "inst-s70000-cluster.txt.bz2": {
+        "time": 101.19166899999999,
+        "memory": 43596,
+        "status": "TLE"
+      },
+      "inst-s70000.txt.bz2": {
+        "time": 101.180452,
+        "memory": 43324,
+        "status": "TLE"
+      },
+      "inst-s90000-cluster.txt.bz2": {
+        "time": 101.134912,
+        "memory": 50076,
+        "status": "TLE"
+      },
+      "inst-s90000.txt.bz2": {
+        "time": 101.20507900000001,
+        "memory": 49976,
+        "status": "TLE"
       }
     },
     "solutions/alg2.py": {
@@ -52,6 +92,16 @@
         "time": 0.071487,
         "memory": 30552,
         "status": "RTE"
+      },
+      "inst-s100000-cluster.txt.bz2": {
+        "time": 3.945519,
+        "memory": 53032,
+        "status": "OK"
+      },
+      "inst-s100000.txt.bz2": {
+        "time": 4.13024,
+        "memory": 53200,
+        "status": "OK"
       },
       "inst-s20-cluster.txt.bz2": {
         "time": 0.071743,
@@ -82,6 +132,36 @@
         "time": 0.070636,
         "memory": 30360,
         "status": "RTE"
+      },
+      "inst-s50000-cluster.txt.bz2": {
+        "time": 2.2482420000000003,
+        "memory": 36900,
+        "status": "OK"
+      },
+      "inst-s50000.txt.bz2": {
+        "time": 2.2535060000000002,
+        "memory": 36504,
+        "status": "OK"
+      },
+      "inst-s70000-cluster.txt.bz2": {
+        "time": 3.083147,
+        "memory": 43288,
+        "status": "OK"
+      },
+      "inst-s70000.txt.bz2": {
+        "time": 3.258768,
+        "memory": 43252,
+        "status": "OK"
+      },
+      "inst-s90000-cluster.txt.bz2": {
+        "time": 3.717207,
+        "memory": 50120,
+        "status": "OK"
+      },
+      "inst-s90000.txt.bz2": {
+        "time": 3.836295,
+        "memory": 50120,
+        "status": "OK"
       }
     }
   }
